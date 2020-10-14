@@ -16,6 +16,7 @@
   "dependencies": {
     "@baldeweg/vuepress-theme-cms": "^0.1.0",
     "@vuepress/core": "^1.7.0",
+    "@vuepress/theme-default": "^1.7.0",
     "cac": "^6.6.1"
   }
 }
