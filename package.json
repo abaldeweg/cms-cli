@@ -1,5 +1,5 @@
 {
-  "name": "cms-cli",
+  "name": "@baldeweg/cms-cli",
   "version": "0.1.0",
   "description": "The CLI for the baldeweg/cms-businesscard CMS",
   "main": "index.js",
