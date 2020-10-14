@@ -1,0 +1,21 @@
+{
+  "name": "cms-cli",
+  "version": "0.1.0",
+  "description": "The CLI for the baldeweg/cms-businesscard CMS",
+  "main": "index.js",
+  "bin": {
+    "cms-cli": "index.js"
+  },
+  "authors": {
+    "name": "André Baldeweg",
+    "email": "a@baldeweg.org"
+  },
+  "repository": "git@github.com:abaldeweg/cms-cli.git",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@baldeweg/vuepress-theme-cms": "^0.1.0",
+    "@vuepress/core": "^1.7.0",
+    "cac": "^6.6.1"
+  }
+}
