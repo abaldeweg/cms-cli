@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const cli = require('cac')()
 const { dev, build } = require('@vuepress/core')
 const path = require('path')
