@@ -870,10 +870,10 @@
     lodash "^4.17"
     mkdirp "^1.0"
 
-"@baldeweg/vuepress-theme-cms@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@baldeweg/vuepress-theme-cms/-/vuepress-theme-cms-0.1.0.tgz#82104cf024fbbc7bb1bd54a080d997c891a63a2a"
-  integrity sha512-xo2YBR7KSAaJMKVLlJkVTx82qVu3ySQKM7ZM3LzayhSOYlRshwI8j1gBW7+x82hdxljIGdC+THMunOXAbocHzQ==
+"@baldeweg/vuepress-theme-cms@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@baldeweg/vuepress-theme-cms/-/vuepress-theme-cms-0.2.0.tgz#138b2009c1467546023236dada998a4054cfd3d5"
+  integrity sha512-9L9B4CiRhxzaBZW2XNVWbmAi06X5IGL0JYshOIWYJ0HWEv2ZewMbwd+aiLi8xrNe7gHQcDHj/5HRnw+FKzCkpA==
   dependencies:
     "@baldeweg/components" "^5.0.1"
 
